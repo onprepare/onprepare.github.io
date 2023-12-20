@@ -9,6 +9,7 @@ Check the theme in action [Demo](https://artemsheludko.github.io/bef/)
 
 The main page would look like this:
 
+
 ![Main page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true)
 
 The post page would look like this:
